@@ -24,6 +24,8 @@
   color: white;
 }
 
+
+
 .App-link {
   color: #61dafb;
 }
@@ -35,4 +37,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+.feedbacks,
+.firebasedata{
+  width: 600px;
+  margin: 0 auto;
+  height: 150vh;
+}
+
+form{
+  height: 350px;
+  width: 368px;
 }
